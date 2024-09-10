@@ -1,0 +1,7 @@
+print(16*5/30*5/(100+100));
+
+print "one plus one equals";
+
+print(6*4);
+
+print("end of file.");
