@@ -1,0 +1,7 @@
+var msg = "hello, world!";
+
+print msg;
+
+var msg2 = "interesting.";
+
+print msg + msg2;
